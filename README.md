@@ -29,7 +29,7 @@ var ballRadius = 10;
 const triggerDistance = playerRadius + ballRadius + 0.01;
 var aloneMap = '';
 var classicMap = ''; 
-var bigMap = ';
+var bigMap = '';
 
 /* OPTIONS */
 
